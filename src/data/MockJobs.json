@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "1",
+    "job_title": "Library Clerk",
+    "area": "Student Services",
+    "employer_name": "University Library",
+    "salario": 10,
+    "requerimientos": "Basic computer skills, attention to detail",
+    "employer_id": "EMP123",
+    "descripcion": "Assist with book check-in/out and library organization",
+    "isActive": true,
+    "horarios": "Mon-Fri 8am-12pm"
+  },
+  {
+    "_id": "2",
+    "job_title": "Research Assistant",
+    "area": "Research & Laboratory",
+    "employer_name": "Biology Department",
+    "salario": 12,
+    "requerimientos": "Lab experience, good note-taking",
+    "employer_id": "EMP456",
+    "descripcion": "Work with professors on ongoing biology research projects",
+    "isActive": true,
+    "horarios": "Flexible hours"
+  },
+  {
+    "_id": "3",
+    "job_title": "Cafeteria Helper",
+    "area": "Food & Dining",
+    "employer_name": "Campus Cafeteria",
+    "salario": 9,
+    "requerimientos": "Food handling certificate preferred",
+    "employer_id": "EMP789",
+    "descripcion": "Assist in food preparation, cleaning, and customer service",
+    "isActive": true,
+    "horarios": "Mon-Fri 11am-3pm"
+  },
+  {
+    "_id": "4",
+    "job_title": "IT Helpdesk Assistant",
+    "area": "Technical Support",
+    "employer_name": "IT Department",
+    "salario": 11,
+    "requerimientos": "Basic troubleshooting skills, communication",
+    "employer_id": "EMP001",
+    "descripcion": "Help fellow students/faculty with minor technical issues",
+    "isActive": true,
+    "horarios": "Mon-Fri 9am-1pm"
+  },
+  {
+    "_id": "5",
+    "job_title": "Event Staff",
+    "area": "Event & Recreational",
+    "employer_name": "Campus Events Office",
+    "salario": 10,
+    "requerimientos": "Organizational skills, weekend availability",
+    "employer_id": "EMP002",
+    "descripcion": "Set up and coordinate campus events & activities",
+    "isActive": true,
+    "horarios": "Weekends"
+  },
+  {
+    "_id": "6",
+    "job_title": "Library Assistant",
+    "area": "Student Services",
+    "employer_name": "University Library",
+    "salario": 10,
+    "requerimientos": "Customer service skills, punctuality",
+    "employer_id": "EMP124",
+    "descripcion": "Assist students with finding books and resources",
+    "isActive": true,
+    "horarios": "Mon-Fri 1pm-5pm"
+  },
+  {
+    "_id": "7",
+    "job_title": "Lab Technician",
+    "area": "Research & Laboratory",
+    "employer_name": "Chemistry Department",
+    "salario": 13,
+    "requerimientos": "Chemistry background, attention to detail",
+    "employer_id": "EMP457",
+    "descripcion": "Assist with chemical experiments and data recording",
+    "isActive": true,
+    "horarios": "Mon-Wed 9am-12pm"
+  },
+  {
+    "_id": "8",
+    "job_title": "Kitchen Assistant",
+    "area": "Food & Dining",
+    "employer_name": "Campus Cafeteria",
+    "salario": 9,
+    "requerimientos": "Teamwork, food safety knowledge",
+    "employer_id": "EMP790",
+    "descripcion": "Help with meal preparation and kitchen cleanliness",
+    "isActive": true,
+    "horarios": "Mon-Fri 4pm-8pm"
+  },
+  {
+    "_id": "9",
+    "job_title": "Tech Support",
+    "area": "Technical Support",
+    "employer_name": "IT Department",
+    "salario": 11,
+    "requerimientos": "Technical knowledge, problem-solving skills",
+    "employer_id": "EMP002",
+    "descripcion": "Provide technical support to students and staff",
+    "isActive": true,
+    "horarios": "Mon-Fri 2pm-6pm"
+  },
+  {
+    "_id": "10",
+    "job_title": "Event Coordinator",
+    "area": "Event & Recreational",
+    "employer_name": "Campus Events Office",
+    "salario": 10,
+    "requerimientos": "Event planning experience, communication skills",
+    "employer_id": "EMP003",
+    "descripcion": "Coordinate and manage campus events",
+    "isActive": true,
+    "horarios": "Weekends"
+  }
+]
