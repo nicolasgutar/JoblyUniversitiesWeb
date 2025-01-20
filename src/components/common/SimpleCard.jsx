@@ -10,7 +10,7 @@ import {
 
 export function SimpleCard({ job_title, area, salario, descripcion }) {
     return (
-        <Card className="mt-6 w-96 relative">
+        <Card className="mt-6 relative">
             <CardBody>
                 <Typography variant="h5" color="blue-gray" className="mb-2">
                     {job_title}

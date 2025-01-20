@@ -19,7 +19,14 @@ function Results({ jobs }) {
 
     return (
         <div>
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '16px' }}>
+            <div
+                style={{
+                    display: 'grid',
+                    gridTemplateColumns: 'repeat(auto-fit, minmax(330px, 1fr))',
+                    gap: '16px',
+                    justifyItems: 'center', // Centers items within their grid cell
+                }}
+            >
                 {currentJobs.map((job) => (
                     <SimpleCard
                         key={job._id}
@@ -30,7 +37,8 @@ function Results({ jobs }) {
                     />
                 ))}
             </div>
-            <div style={{ marginTop: '16px', display: 'flex', justifyContent: 'center', gap: '8px' }}>
+
+            <div style={{marginTop: '16px', display: 'flex', justifyContent: 'center', gap: '8px'}}>
                 <SimplePagination
                     active={currentPage}
                     setActive={setCurrentPage}
